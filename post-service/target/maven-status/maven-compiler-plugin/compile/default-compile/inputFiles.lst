@@ -1,0 +1,11 @@
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\clients\IUserClient.java
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\PostServiceApplication.java
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\controllers\UserPostController.java
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\services\PostService.java
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\entities\Post.java
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\clients\UserClient.java
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\controllers\PostController.java
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\models\User.java
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\requests\CreatePost.java
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\services\IPostService.java
+C:\Users\Nhat vjp pr0\Documents\gRPC\grpc-spring-boot-microservice-with-istio\post-service\src\main\java\com\aniss\postservice\repositories\PostRepository.java
